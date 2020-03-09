@@ -1,0 +1,2 @@
+WilliamBradleyPitt.strip(i)
+AngelinaJolieVoight
